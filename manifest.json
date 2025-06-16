@@ -1,9 +1,9 @@
 {
-  "name": "GX Music",
-  "version": "0.0.1",
+  "name": "GX Ambient",
+  "version": "1.0.0",
   "description": "GX Browser background music.",
 	"browser_action": {
-		"default_title": "GX Music",
+		"default_title": "GX Ambient",
 		"default_popup": "popout.html"
 	},
   "icons": {
