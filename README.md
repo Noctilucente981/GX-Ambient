@@ -46,9 +46,8 @@
 - You’ll now see the **GX Ambient icon** in your Chrome toolbar
 - Click it to open the popup
 - Choose a track, adjust the volume, and enjoy:
-- 🎼 Ambient music
-- ⌨️ Typing sound effects
-- 🔇 Auto-pause and resume when other tabs play sound
-- 🌫️ Smooth fade-in and fade-out transitions
+-  Ambient music
+-  Auto-pause and resume when other tabs play sound
+-  Smooth fade-in and fade-out transitions
 
 ---
